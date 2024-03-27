@@ -1,26 +1,27 @@
 <!---
 ![Digital_VLSI_SoC_Design_ _Planning_(RTL2GDSII_Flow)1](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/92eb860b-7a88-4c6f-8143-ad3e09fd9c5b)
 ![Digital_VLSI_SoC_Design_ _Planning_(RTL2GDSII_Flow) (1)1](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/4285c5e4-d5df-43e4-b460-ead45ff67f9b)
--->
 ![Digital_VLSI_SoC_Design_ _Planning_(RTL2GDSII_Flow) (1)2](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/5b8bdb5f-95c7-41c0-b809-711b2b8ad171)
-# Digital VLSI SoC Design and Planning
+-->
+![Advanced_Physical_Design_using_OpenLANE_Sky130 (1)](https://github.com/fayizferosh/advanced-pd-using-openlane-sky130/assets/63997454/b90974a5-a8cd-4de7-aeaf-b519c88e372b)
+# Advanced Physical Design using OpenLANE/Sky130
 
 ![Static Badge](https://img.shields.io/badge/OS-linux-orange)
 ![Static Badge](https://img.shields.io/badge/EDA%20Tools-OpenLANE--Flow%2C_Yosys%2C_abc%2C_OpenROAD%2C_TritonRoute%2C_OpenSTA%2C_magic%2C_netgen%2C_GUNA-navy)
 ![Static Badge](https://img.shields.io/badge/languages-verilog%2C_bash%2C_TCL-crimson)
-![GitHub last commit](https://img.shields.io/github/last-commit/fayizferosh/soc-design-and-planning-nasscom-vsd)
-![GitHub language count](https://img.shields.io/github/languages/count/fayizferosh/soc-design-and-planning-nasscom-vsd)
-![GitHub top language](https://img.shields.io/github/languages/top/fayizferosh/soc-design-and-planning-nasscom-vsd)
-![GitHub repo size](https://img.shields.io/github/repo-size/fayizferosh/soc-design-and-planning-nasscom-vsd)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fayizferosh/soc-design-and-planning-nasscom-vsd)
-![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/fayizferosh/soc-design-and-planning-nasscom-vsd)
+![GitHub last commit](https://img.shields.io/github/last-commit/fayizferosh/advanced-pd-using-openlane-sky130)
+![GitHub language count](https://img.shields.io/github/languages/count/fayizferosh/advanced-pd-using-openlane-sky130)
+![GitHub top language](https://img.shields.io/github/languages/top/fayizferosh/advanced-pd-using-openlane-sky130)
+![GitHub repo size](https://img.shields.io/github/repo-size/fayizferosh/advanced-pd-using-openlane-sky130)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fayizferosh/advanced-pd-using-openlane-sky130)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/fayizferosh/advanced-pd-using-openlane-sky130)
 <!---
 Comments
 -->
 
-> 2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII flow organised by VSD in collaboration with NASSCOM
+> 2 Week Advanced Physical Design using OpenLANE/Sky130 workshop with complete RTL2GDSII flow organised by VSD as part of Level-3 of Chip Design for High School organised in collaboration with Intel India
 
-## Section 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK (14/03/2024 - 15/03/2024)
+## Section 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK (18/03/2024 - 19/03/2024)
 
 ### Theory
 
@@ -235,7 +236,7 @@ Flop\ Ratio = \frac{1613}{14876} = 0.108429685
 Percentage\ of\ DFF's = 0.108429685 * 100 = 10.84296854\ \%
 ```
 
-## Section 2 - Good floorplan vs bad floorplan and introduction to library cells (16/03/2024 - 17/03/2024)
+## Section 2 - Good floorplan vs bad floorplan and introduction to library cells (20/03/2024 - 21/03/2024)
 
 ### Theory
 
@@ -400,7 +401,7 @@ exit
 exit
 ```
 
-## Section 3 - Design library cell using Magic Layout and ngspice characterization (16/03/2024 - 21/03/2024)
+## Section 3 - Design library cell using Magic Layout and ngspice characterization (22/03/2024 - 25/03/2024)
 
 ### Theory
 
@@ -759,7 +760,7 @@ Screenshot of magic window with rule implemented
 
 ![Screenshot from 2024-03-22 01-10-25](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/49b1004d-f860-4ca7-86f4-4d79784a01cf)
 
-## Section 4 - Pre-layout timing analysis and importance of good clock tree (22/03/2024 - 24/03/2024)
+## Section 4 - Pre-layout timing analysis and importance of good clock tree (26/03/2024 - 28/03/2024)
 
 ### Theory
 
@@ -1552,7 +1553,7 @@ Screenshots of commands run and timing report generated
 ![Screenshot from 2024-03-26 13-50-12](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/bf6c116b-e31c-4dce-b04f-a75430b1d03b)
 ![Screenshot from 2024-03-26 13-53-30](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/assets/63997454/a26e9d23-d448-4512-8676-8a2b3fb22572)
 
-## Section 5 -  (25/03/2024 - 26/03/2024)
+## Section 5 - Final steps for RTL2GDS using tritonRoute and openSTA (29/03/2024 - 30/03/2024)
 
 ### Theory
 
